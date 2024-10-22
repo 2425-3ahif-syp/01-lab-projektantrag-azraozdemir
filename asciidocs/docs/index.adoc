@@ -1,1 +1,32 @@
-= Index page
+= Projektantrag 
+
+Azraa ÖZDEMiR | {docdate}
+
+== 1. Health Tracker 2.0"-App
+=== 1.1 Überblick der Aufgabenbeschreibung:
+Die "Health Tracker 2.0"-App wird entwickelt, um Schwachstellen bestehender Gesundheitsapps zu überwinden und technische Innovation zu bieten. 
+Sie analysiert Stress, Schlaf und emotionale Zustände über Sensoren (z.B. Herzfrequenzmesser) und Kameraaufnahmen. Durch den Einsatz von KI bietet sie personalisierte Gesundheitsanalysen und Tipps. Langfristig hilft die App, mentale und physische Gesundheit zu verbessern und gesellschaftlich relevante Themen wie Stressprävention und Wohlbefinden zu adressieren.
+
+=== 1.2 Nutzen des Projekts:
+Die "Health Tracker 2.0"-App verbessert die Lebensqualität durch effektives Stressmanagement, optimierte Schlafgewohnheiten und gesteigerte emotionale Stabilität. 
+Sie ermöglicht die frühzeitige Identifikation gesundheitlicher Probleme wie chronischem Stress oder Schlafstörungen, bevor sie ernsthaft werden. Zudem fördert sie langfristig die Gesundheitsvorsorge durch die Analyse von Gesundheitsmustern und individuelle Empfehlungen.
+
+=== 1.3 Konsequenzen bei Nichtdurchführung:
+Die Nichterfüllung des Projekts führt zu einem erhöhten Risiko für gesundheitliche Probleme wie Burnout, Schlafstörungen oder stressbedingte Erkrankungen. 
+Zudem mangelt es an Achtsamkeit für mentale Gesundheit und emotionale Schwankungen, was zu einer möglichen Abnahme der Produktivität und Lebensqualität durch unausgeglichene Schlaf- und Stressmuster führen kann.
+
+=== 1.4 Personelle und finanzielle Rahmenbedingungen:
+Für die Entwicklung der "Health Tracker 2.0"-App werden voraussichtlich etwa 6 bis 12 Monate benötigt. Dabei sollte ein Team aus 5 bis 8 Fachkräften zusammengestellt werden, bestehend aus App-Entwicklern, KI-Experten, UX/UI-Designern und Gesundheitsspezialisten. 
+Jeder Fachkraft muss in ihrem Gebiet engagiert sein, um die Qualität und den Erfolg des Projekts zu gewährleisten.
+
+
+
+
+
+
+
+
+
+
+
+
